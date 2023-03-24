@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication2
+</name>
+</assembly>
+<members>
+<member name="T:WebApplication2.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir as propriedades que estão disponíveis em My Namespace para projetos da web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Computer">
+ <summary>
+ Retorna informações sobre o computador host.
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.User">
+ <summary>
+ Retorna informações sobre o usuário atual da web.
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Request">
+ <summary>
+ Retorna um objeto Request.
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Response">
+ <summary>
+ Retorna um objeto Response.
+ </summary>
+</member>
+<member name="P:WebApplication2.My.MyWebExtension.Log">
+ <summary>
+ Retorna o objeto de log Asp.
+ </summary>
+</member>
+<member name="F:WebApplication2.SiteMaster._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.Site_Mobile._Head1">
+<summary>
+controle Head1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.Site_Mobile._HeadContent">
+<summary>
+Controle HeadContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.Site_Mobile._form1">
+<summary>
+Controle form1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.Site_Mobile._FeaturedContent">
+<summary>
+Controle FeaturedContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.Site_Mobile._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.Site_Mobile._ViewSwitcher1">
+<summary>
+controle ViewSwitcher1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._form1">
+<summary>
+Controle form1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._title">
+<summary>
+Controle title.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._content">
+<summary>
+Controle content.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._deadline">
+<summary>
+Controle deadline.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._CreateTask">
+<summary>
+Controle CreateTask.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._lblRegistros">
+<summary>
+Controle lblRegistros.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._GrdTarefa">
+<summary>
+Controle GrdTarefa.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:WebApplication2.WebForm1._btnSalvar">
+<summary>
+Controle btnSalvar.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+</members>
+</doc>
